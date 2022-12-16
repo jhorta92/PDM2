@@ -1,22 +1,22 @@
 {
    "users":[
       {
-         "id":"1",
+         "id": 1,
          "name":"Joao",
          "lastname":"Antunes",
          "username":"Jhorta",
          "password":"555555",
-         "nubbooks":"0"
+         "booksRead": 0
       }
    ],
    "books":[
       {
-         "id":"1",
+         "id": 1,
          "name":"Lusiadas",
          "author":"luis de camoes",
          "image":"https://www.lojadomuseudemarinha.pt/pub/media/catalog/product/cache/877042223109cc2bc0869ffe42af0ed8/1/0/101634-os-lusiadas-lado.jpg",
          "synopses":"Os Lusíadas, de Luís de Camões, é o livro mais famoso da literatura portuguesa e fala das conquistas lusitanas até a chegada de Vasco da Gama à Índia. Assim, o narrador da epopeia demonstra seu amor e veneração ao rei de Portugal, D. Sebastião, e ao povo lusitano.",
-         "Read":"0"
+         "Read": 0
       }
    ]
 }
