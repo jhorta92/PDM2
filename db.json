@@ -17,6 +17,30 @@
       {
          "id": 2,
          "name": "Thriller"
+      },
+       {
+         "id": 3,
+         "name": "Horror"
+      },
+       {
+         "id": 4,
+         "name": "Aventure"
+      },
+       {
+         "id": 5,
+         "name": "sci-fi"
+      },
+       {
+         "id": 6,
+         "name": "Biografy"
+      },
+       {
+         "id": 7,
+         "name": "Crime"
+      },
+       {
+         "id": 8,
+         "name": "War"
       }
     ],
    "books":[
