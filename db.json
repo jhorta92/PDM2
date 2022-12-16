@@ -9,6 +9,16 @@
          "booksRead": 0
       }
    ],
+   "categories": [
+      {
+         "id": 1,
+         "name": "Romance"
+      },
+      {
+         "id": 2,
+         "name": "Thriller"
+      }
+    ],
    "books":[
       {
          "id": 1,
