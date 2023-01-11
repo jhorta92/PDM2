@@ -51,7 +51,7 @@
          "image":"https://www.lojadomuseudemarinha.pt/pub/media/catalog/product/cache/877042223109cc2bc0869ffe42af0ed8/1/0/101634-os-lusiadas-lado.jpg",
          "synopses":"Os Lusíadas, de Luís de Camões, é o livro mais famoso da literatura portuguesa e fala das conquistas lusitanas até a chegada de Vasco da Gama à Índia. Assim, o narrador da epopeia demonstra seu amor e veneração ao rei de Portugal, D. Sebastião, e ao povo lusitano.",
          "read": 0,
-         "category": "Romance"
+         "category": "Aventure"
       },
       {
          "id": 2,
@@ -68,6 +68,24 @@
          "author":"F. Scott Fitzgerald",
          "image":"https://m.media-amazon.com/images/I/81BmIqvcNFL.jpg",
          "synopses":"é um livro sobre a Era do Jazz nos EUA, os anos prósperos e loucos que sucederam a Primeira Guerra Mundial. Nick Carraway, um jovem comerciante, se torna amigo de seu vizinho, Jay Gatsby, um bilionário conhecido por dar festas animadas em sua mansão, em Long Island. ",
+         "read": 0,
+         "category": "War"
+      },
+      {
+         "id": 4,
+         "name":" Moby Dick",
+         "author":"Herman Melville",
+         "image":"https://m.media-amazon.com/images/I/41VnFKC9srL._AC_SY780_.jpg",
+         "synopses":"A clássica obra de Herman Melville é centrada em Ismael, um marinheiro letrado, que, para fugir de sua vida monótona, decide conhecer a rotina de um navio baleeiro, o Pequod. No entanto, o que ele não sabia é que o capitão da embarcação, Ahab, tinha apenas um objetivo: matar Moby Dick, uma gigante baleia branca que arrancou sua perna no passado. Ismael, então, embarca em uma perigosa aventura em alto-mar para acompanhar o capitão.",
+         "read": 0,
+         "category": "Aventure"
+      },
+       {
+         "id": 5,
+         "name":"Guerra e Paz",
+         "author":"Lev Tolstói",
+         "image":"https://www.revistabula.com/wp/wp-content/uploads/2020/05/Guerra-e-Paz-610x884.jpg",
+         "synopses":"Uma das obras mais volumosas da história, “Guerra e Paz” narra a história da Rússia à época de Napoleão Bonaparte. Ao acompanhar o percurso de cinco famílias aristocráticas russas no período de 1805 a 1820, Tolstói narra a marcha das tropas napoleônicas e seu impacto brutal sobre a vida de centenas de personagens. ",
          "read": 0,
          "category": "War"
       }
