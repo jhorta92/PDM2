@@ -41,6 +41,10 @@
        {
          "id": 8,
          "name": "War"
+      },
+      {
+         "id": 9,
+         "name": "Drama"
       }
     ],
    "books":[
@@ -73,7 +77,7 @@
       },
       {
          "id": 4,
-         "name":" Moby Dick",
+         "name":"Moby Dick",
          "author":"Herman Melville",
          "image":"https://m.media-amazon.com/images/I/41VnFKC9srL._AC_SY780_.jpg",
          "synopses":"A clássica obra de Herman Melville é centrada em Ismael, um marinheiro letrado, que, para fugir de sua vida monótona, decide conhecer a rotina de um navio baleeiro, o Pequod. No entanto, o que ele não sabia é que o capitão da embarcação, Ahab, tinha apenas um objetivo: matar Moby Dick, uma gigante baleia branca que arrancou sua perna no passado. Ismael, então, embarca em uma perigosa aventura em alto-mar para acompanhar o capitão.",
@@ -88,6 +92,24 @@
          "synopses":"Uma das obras mais volumosas da história, “Guerra e Paz” narra a história da Rússia à época de Napoleão Bonaparte. Ao acompanhar o percurso de cinco famílias aristocráticas russas no período de 1805 a 1820, Tolstói narra a marcha das tropas napoleônicas e seu impacto brutal sobre a vida de centenas de personagens. ",
          "read": 0,
          "category": "War"
+      },
+      {
+         "id": 6,
+         "name":"Lolita",
+         "author":"Vladimir Nabokov",
+         "image":"https://www.revistabula.com/wp/wp-content/uploads/2020/03/Lolita.jpg",
+         "synopses":"é um dos mais importantes romances do século 20. Polêmico e irônico, ele narra o amor obsessivo de Humbert Humbert, um cínico intelectual de meia-idade, por Dolores Haze, Lolita, de 12 anos. Humbert se casa com a mãe de Lolita e, após a morte da esposa, começa a se relacionar com a garota. Para evitar que Lolita fuja, ele alega que ela será enviada para um orfanato se o deixar. Humbert também manipula a garota com dinheiro e presentes, em troca de favores sexuais.",
+         "read": 0,
+         "category": "Romance"
+      },
+       {
+         "id": 7,
+         "name":"Hamlet",
+         "author":"William Shakespeare",
+         "image":"https://www.revistabula.com/wp/wp-content/uploads/2020/03/Hamlet.jpg",
+         "synopses":"O Rei Hamlet de Dinamarca acaba de morrer, deixando seu filho, o Príncipe Hamlet, e a viúva Rainha Gertrudes. O irmão do Rei, Cláudio, logo se casa com Gertrudes, assumindo o trono. Certa noite, um fantasma aparece ao príncipe, alegando ser seu pai, e revela que foi morto por Cláudio, que o envenenou. O Príncipe Hamlet passa dias perturbado e recluso, sem saber se deve acreditar no espírito, até que descobre como saber a verdade.",
+         "read": 0,
+         "category": "Drama"
       }
    ]
 }
