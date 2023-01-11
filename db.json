@@ -50,26 +50,26 @@
          "author":"luis de camoes",
          "image":"https://www.lojadomuseudemarinha.pt/pub/media/catalog/product/cache/877042223109cc2bc0869ffe42af0ed8/1/0/101634-os-lusiadas-lado.jpg",
          "synopses":"Os Lusíadas, de Luís de Camões, é o livro mais famoso da literatura portuguesa e fala das conquistas lusitanas até a chegada de Vasco da Gama à Índia. Assim, o narrador da epopeia demonstra seu amor e veneração ao rei de Portugal, D. Sebastião, e ao povo lusitano.",
-         "Read": 0,
-         "Category": "Romance"
+         "read": 0,
+         "category": "Romance"
       },
       {
          "id": 2,
-         "name":"Lusiadas",
-         "author":"luis de camoes",
-         "image":"https://www.lojadomuseudemarinha.pt/pub/media/catalog/product/cache/877042223109cc2bc0869ffe42af0ed8/1/0/101634-os-lusiadas-lado.jpg",
-         "synopses":"Os Lusíadas, de Luís de Camões, é o livro mais famoso da literatura portuguesa e fala das conquistas lusitanas até a chegada de Vasco da Gama à Índia. Assim, o narrador da epopeia demonstra seu amor e veneração ao rei de Portugal, D. Sebastião, e ao povo lusitano.",
-         "Read": 0,
-         "Category": "Romance"
+         "name":"Dom Quixote",
+         "author":"Miguel de Cervantes",
+         "image":"https://upload.wikimedia.org/wikipedia/commons/0/08/Miguel_de_Cervantes_%281605%29_El_ingenioso_hidalgo_Don_Quixote_de_la_Mancha.png",
+         "synopses":"O livro narra a história do engenhoso fidalgo Dom Quixote e de seu fiel escudeiro Sancho Pança em três incursões pelas terras da Mancha, região de Aragão e da Catalunha, na Espanha. Dom Quixote adora ler histórias de cavalaria e, de tão influenciado por elas, enlouquece e sai em busca de aventuras memoráveis, tentando imitar seus heróis favoritos e levando consigo Sancho Pança, que tem uma visão mais realista dos fatos.",
+         "read": 0,
+         "category": "Aventure"
       },
       {
          "id": 3,
-         "name":"Lusiadas",
-         "author":"luis de camoes",
-         "image":"https://www.lojadomuseudemarinha.pt/pub/media/catalog/product/cache/877042223109cc2bc0869ffe42af0ed8/1/0/101634-os-lusiadas-lado.jpg",
-         "synopses":"Os Lusíadas, de Luís de Camões, é o livro mais famoso da literatura portuguesa e fala das conquistas lusitanas até a chegada de Vasco da Gama à Índia. Assim, o narrador da epopeia demonstra seu amor e veneração ao rei de Portugal, D. Sebastião, e ao povo lusitano.",
-         "Read": 0,
-         "Category": "Thriller"
+         "name":"O Grande Gatsby",
+         "author":"F. Scott Fitzgerald",
+         "image":"https://m.media-amazon.com/images/I/81BmIqvcNFL.jpg",
+         "synopses":"é um livro sobre a Era do Jazz nos EUA, os anos prósperos e loucos que sucederam a Primeira Guerra Mundial. Nick Carraway, um jovem comerciante, se torna amigo de seu vizinho, Jay Gatsby, um bilionário conhecido por dar festas animadas em sua mansão, em Long Island. ",
+         "read": 0,
+         "category": "War"
       }
    ]
 }
