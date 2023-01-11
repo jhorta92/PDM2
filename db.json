@@ -110,6 +110,15 @@
          "synopses":"O Rei Hamlet de Dinamarca acaba de morrer, deixando seu filho, o Príncipe Hamlet, e a viúva Rainha Gertrudes. O irmão do Rei, Cláudio, logo se casa com Gertrudes, assumindo o trono. Certa noite, um fantasma aparece ao príncipe, alegando ser seu pai, e revela que foi morto por Cláudio, que o envenenou. O Príncipe Hamlet passa dias perturbado e recluso, sem saber se deve acreditar no espírito, até que descobre como saber a verdade.",
          "read": 0,
          "category": "Drama"
+      },
+       {
+         "id": 8,
+         "name":"O Apanhador no Campo de Centeio",
+         "author":"J.D. Salinger",
+         "image":"https://www.revistabula.com/wp/wp-content/uploads/2020/03/O-Apanhador-no-Campo-de-Centeio.jpg",
+         "synopses":"O livro acompanha um fim de semana da vida de Holden Caulfield, um jovem de 17 anos, estudante de um respeitado internato para rapazes, o Colégio Pencey. Ele é expulso da escola depois de tirar notas ruins, e precisa voltar mais cedo para casa no inverno. Durante o caminho de volta, o rapaz busca adiar ao máximo o encontro com os pais, fazendo uma viagem reflexiva sobre sua existência, a partir de sua peculiar visão de mundo.",
+         "read": 0,
+         "category": "Drama"
       }
    ]
 }
