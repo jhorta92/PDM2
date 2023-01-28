@@ -6,7 +6,8 @@
          "lastname":"Antunes",
          "username":"Jhorta",
          "password":"555555",
-         "booksRead": 0
+         "booksRead": 0,
+         "avatar":"https://cdn-icons-png.flaticon.com/512/4792/4792929.png"
       }
    ],
    "categories": [
