@@ -9,6 +9,15 @@
          "booksRead": 0,
          "avatar":"https://cdn-icons-png.flaticon.com/512/4792/4792929.png"
       }
+       {
+         "id": 2,
+         "name":"Joao2",
+         "lastname":"Antunes2",
+         "username":"jhorta",
+         "password":"2846jh",
+         "booksRead": 0,
+         "avatar":"https://cdn-icons-png.flaticon.com/512/4792/4792929.png"
+      }
    ],
    "categories": [
       {
