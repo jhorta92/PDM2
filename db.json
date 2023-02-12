@@ -50,7 +50,7 @@
       },
        {
          "id": 8,
-         "name": "War"
+         "name": "Guerra"
       },
       {
          "id": 9,
@@ -65,7 +65,7 @@
          "image":"https://www.lojadomuseudemarinha.pt/pub/media/catalog/product/cache/877042223109cc2bc0869ffe42af0ed8/1/0/101634-os-lusiadas-lado.jpg",
          "synopses":"Os Lusíadas, de Luís de Camões, é o livro mais famoso da literatura portuguesa e fala das conquistas lusitanas até a chegada de Vasco da Gama à Índia. Assim, o narrador da epopeia demonstra seu amor e veneração ao rei de Portugal, D. Sebastião, e ao povo lusitano.",
          "read": 0,
-         "category": "Aventure"
+         "category": "Aventura"
       },
       {
          "id": 2,
@@ -74,7 +74,7 @@
          "image":"https://upload.wikimedia.org/wikipedia/commons/0/08/Miguel_de_Cervantes_%281605%29_El_ingenioso_hidalgo_Don_Quixote_de_la_Mancha.png",
          "synopses":"O livro narra a história do engenhoso fidalgo Dom Quixote e de seu fiel escudeiro Sancho Pança em três incursões pelas terras da Mancha, região de Aragão e da Catalunha, na Espanha. Dom Quixote adora ler histórias de cavalaria e, de tão influenciado por elas, enlouquece e sai em busca de aventuras memoráveis, tentando imitar seus heróis favoritos e levando consigo Sancho Pança, que tem uma visão mais realista dos fatos.",
          "read": 0,
-         "category": "Aventure"
+         "category": "Aventura"
       },
       {
          "id": 3,
@@ -83,7 +83,7 @@
          "image":"https://m.media-amazon.com/images/I/81BmIqvcNFL.jpg",
          "synopses":"é um livro sobre a Era do Jazz nos EUA, os anos prósperos e loucos que sucederam a Primeira Guerra Mundial. Nick Carraway, um jovem comerciante, se torna amigo de seu vizinho, Jay Gatsby, um bilionário conhecido por dar festas animadas em sua mansão, em Long Island. ",
          "read": 0,
-         "category": "War"
+         "category": "Guerra"
       },
       {
          "id": 4,
@@ -92,7 +92,7 @@
          "image":"https://m.media-amazon.com/images/I/41VnFKC9srL._AC_SY780_.jpg",
          "synopses":"A clássica obra de Herman Melville é centrada em Ismael, um marinheiro letrado, que, para fugir de sua vida monótona, decide conhecer a rotina de um navio baleeiro, o Pequod. No entanto, o que ele não sabia é que o capitão da embarcação, Ahab, tinha apenas um objetivo: matar Moby Dick, uma gigante baleia branca que arrancou sua perna no passado. Ismael, então, embarca em uma perigosa aventura em alto-mar para acompanhar o capitão.",
          "read": 0,
-         "category": "Aventure"
+         "category": "Aventura"
       },
        {
          "id": 5,
@@ -101,7 +101,7 @@
          "image":"https://www.revistabula.com/wp/wp-content/uploads/2020/05/Guerra-e-Paz-610x884.jpg",
          "synopses":"Uma das obras mais volumosas da história, “Guerra e Paz” narra a história da Rússia à época de Napoleão Bonaparte. Ao acompanhar o percurso de cinco famílias aristocráticas russas no período de 1805 a 1820, Tolstói narra a marcha das tropas napoleônicas e seu impacto brutal sobre a vida de centenas de personagens. ",
          "read": 0,
-         "category": "War"
+         "category": "Guerra"
       },
       {
          "id": 6,
